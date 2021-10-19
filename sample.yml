@@ -1,0 +1,14 @@
+---
+- name: cluster jenkins
+  hosts: all
+  become: yes
+  tasks:
+    - name : package
+      package : 
+        name : 
+        update :
+    - name : copy 
+
+
+
+    - name : 

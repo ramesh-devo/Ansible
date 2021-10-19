@@ -1,0 +1,17 @@
+[webserver]
+172.31.33.140
+172.31.3.200
+
+[dbserver]
+172.31.3.200
+
+[ubuntu]
+172.31.33.140
+localhost
+
+[cnetos]
+172.31.3.200
+
+[appserver]
+172.31.3.200
+localhost
